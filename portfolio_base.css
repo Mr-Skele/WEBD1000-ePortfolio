@@ -1,0 +1,13 @@
+@charset "utf-8";
+/*
+Author: Adam Mills
+Date: 2/2/2023
+Desc:CSS base file for portfolio
+*/
+
+body{
+    background-color: antiquewhite;
+    color: darkslategray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
